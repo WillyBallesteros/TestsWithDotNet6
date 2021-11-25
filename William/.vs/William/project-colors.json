@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "812625f8-ec2b-46c1-983b-d77f68141776": {
+      "ProjectGuid": "812625f8-ec2b-46c1-983b-d77f68141776",
+      "DisplayName": "LibreriaWilliam",
+      "ColorIndex": 0
+    },
+    "19a3aaa1-8b49-473b-8352-7d76dd516b5d": {
+      "ProjectGuid": "19a3aaa1-8b49-473b-8352-7d76dd516b5d",
+      "DisplayName": "LibreriaWilliamMSTest",
+      "ColorIndex": 1
+    },
+    "ad4e1ccf-c3cf-412c-b5d1-09ae20a9c2bf": {
+      "ProjectGuid": "ad4e1ccf-c3cf-412c-b5d1-09ae20a9c2bf",
+      "DisplayName": "LibreriaWilliamNUnitTest",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "dbe5b8e3-96e6-4675-b62b-05a4368bb676": {
+      "ProjectGuid": "dbe5b8e3-96e6-4675-b62b-05a4368bb676",
+      "DisplayName": "LibreriaWilliamXUnitTest",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

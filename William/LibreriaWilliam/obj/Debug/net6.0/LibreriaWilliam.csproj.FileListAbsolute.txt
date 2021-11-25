@@ -1,0 +1,12 @@
+C:\TestUnit\William\LibreriaWilliam\bin\Debug\net6.0\LibreriaWilliam.deps.json
+C:\TestUnit\William\LibreriaWilliam\bin\Debug\net6.0\LibreriaWilliam.dll
+C:\TestUnit\William\LibreriaWilliam\bin\Debug\net6.0\ref\LibreriaWilliam.dll
+C:\TestUnit\William\LibreriaWilliam\bin\Debug\net6.0\LibreriaWilliam.pdb
+C:\TestUnit\William\LibreriaWilliam\obj\Debug\net6.0\LibreriaWilliam.GeneratedMSBuildEditorConfig.editorconfig
+C:\TestUnit\William\LibreriaWilliam\obj\Debug\net6.0\LibreriaWilliam.AssemblyInfoInputs.cache
+C:\TestUnit\William\LibreriaWilliam\obj\Debug\net6.0\LibreriaWilliam.AssemblyInfo.cs
+C:\TestUnit\William\LibreriaWilliam\obj\Debug\net6.0\LibreriaWilliam.csproj.CoreCompileInputs.cache
+C:\TestUnit\William\LibreriaWilliam\obj\Debug\net6.0\LibreriaWilliam.dll
+C:\TestUnit\William\LibreriaWilliam\obj\Debug\net6.0\ref\LibreriaWilliam.dll
+C:\TestUnit\William\LibreriaWilliam\obj\Debug\net6.0\LibreriaWilliam.pdb
+C:\TestUnit\William\LibreriaWilliam\obj\Debug\net6.0\LibreriaWilliam.csproj.AssemblyReference.cache
