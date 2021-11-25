@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OJI2sjYllh9UY+/AkP8NgVRCjLUApNwGSAOrxl88wq3FmR6j39YVCTQPTGkY6U/pLBQ63kUsyBSanmmcjOJA4w==",
+  "dgSpecHash": "7ulkxlx/6bhyRKKL/ljxkPYdmN1kyQZfGGffGaZGlLpNNkQx4WQ9lHYaeDE4k5tcl2r9QSr7qGSZ0K5WA+zcaQ==",
   "success": true,
-  "projectFilePath": "C:\\TestUnit\\William\\LibreriaWilliam\\LibreriaWilliam.csproj",
+  "projectFilePath": "C:\\personal\\TestsWithDotNet6\\William\\LibreriaWilliam\\LibreriaWilliam.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

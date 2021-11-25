@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\TestUnit\\William\\LibreriaWilliamNUnitTest\\LibreriaWilliamNUnitTest.csproj": {}
+    "C:\\personal\\TestsWithDotNet6\\William\\LibreriaWilliamNUnitTest\\LibreriaWilliamNUnitTest.csproj": {}
   },
   "projects": {
-    "C:\\TestUnit\\William\\LibreriaWilliamNUnitTest\\LibreriaWilliamNUnitTest.csproj": {
+    "C:\\personal\\TestsWithDotNet6\\William\\LibreriaWilliamNUnitTest\\LibreriaWilliamNUnitTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\TestUnit\\William\\LibreriaWilliamNUnitTest\\LibreriaWilliamNUnitTest.csproj",
+        "projectUniqueName": "C:\\personal\\TestsWithDotNet6\\William\\LibreriaWilliamNUnitTest\\LibreriaWilliamNUnitTest.csproj",
         "projectName": "LibreriaWilliamNUnitTest",
-        "projectPath": "C:\\TestUnit\\William\\LibreriaWilliamNUnitTest\\LibreriaWilliamNUnitTest.csproj",
-        "packagesPath": "C:\\Users\\William\\.nuget\\packages\\",
-        "outputPath": "C:\\TestUnit\\William\\LibreriaWilliamNUnitTest\\obj\\",
+        "projectPath": "C:\\personal\\TestsWithDotNet6\\William\\LibreriaWilliamNUnitTest\\LibreriaWilliamNUnitTest.csproj",
+        "packagesPath": "C:\\Users\\William.Ballesteros\\.nuget\\packages\\",
+        "outputPath": "C:\\personal\\TestsWithDotNet6\\William\\LibreriaWilliamNUnitTest\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\William\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\William.Ballesteros\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,15 +22,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://arrivelogistics.pkgs.visualstudio.com/_packaging/ArriveCommons%40Local/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\TestUnit\\William\\LibreriaWilliam\\LibreriaWilliam.csproj": {
-                "projectPath": "C:\\TestUnit\\William\\LibreriaWilliam\\LibreriaWilliam.csproj"
+              "C:\\personal\\TestsWithDotNet6\\William\\LibreriaWilliam\\LibreriaWilliam.csproj": {
+                "projectPath": "C:\\personal\\TestsWithDotNet6\\William\\LibreriaWilliam\\LibreriaWilliam.csproj"
               }
             }
           }
@@ -89,21 +84,17 @@
         }
       }
     },
-    "C:\\TestUnit\\William\\LibreriaWilliam\\LibreriaWilliam.csproj": {
+    "C:\\personal\\TestsWithDotNet6\\William\\LibreriaWilliam\\LibreriaWilliam.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\TestUnit\\William\\LibreriaWilliam\\LibreriaWilliam.csproj",
+        "projectUniqueName": "C:\\personal\\TestsWithDotNet6\\William\\LibreriaWilliam\\LibreriaWilliam.csproj",
         "projectName": "LibreriaWilliam",
-        "projectPath": "C:\\TestUnit\\William\\LibreriaWilliam\\LibreriaWilliam.csproj",
-        "packagesPath": "C:\\Users\\William\\.nuget\\packages\\",
-        "outputPath": "C:\\TestUnit\\William\\LibreriaWilliam\\obj\\",
+        "projectPath": "C:\\personal\\TestsWithDotNet6\\William\\LibreriaWilliam\\LibreriaWilliam.csproj",
+        "packagesPath": "C:\\Users\\William.Ballesteros\\.nuget\\packages\\",
+        "outputPath": "C:\\personal\\TestsWithDotNet6\\William\\LibreriaWilliam\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\William\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\William.Ballesteros\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -111,8 +102,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://arrivelogistics.pkgs.visualstudio.com/_packaging/ArriveCommons%40Local/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {

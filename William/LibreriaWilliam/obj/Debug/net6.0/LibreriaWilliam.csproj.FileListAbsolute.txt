@@ -10,3 +10,15 @@ C:\TestUnit\William\LibreriaWilliam\obj\Debug\net6.0\LibreriaWilliam.dll
 C:\TestUnit\William\LibreriaWilliam\obj\Debug\net6.0\ref\LibreriaWilliam.dll
 C:\TestUnit\William\LibreriaWilliam\obj\Debug\net6.0\LibreriaWilliam.pdb
 C:\TestUnit\William\LibreriaWilliam\obj\Debug\net6.0\LibreriaWilliam.csproj.AssemblyReference.cache
+C:\personal\TestsWithDotNet6\William\LibreriaWilliam\bin\Debug\net6.0\LibreriaWilliam.deps.json
+C:\personal\TestsWithDotNet6\William\LibreriaWilliam\bin\Debug\net6.0\LibreriaWilliam.dll
+C:\personal\TestsWithDotNet6\William\LibreriaWilliam\bin\Debug\net6.0\ref\LibreriaWilliam.dll
+C:\personal\TestsWithDotNet6\William\LibreriaWilliam\bin\Debug\net6.0\LibreriaWilliam.pdb
+C:\personal\TestsWithDotNet6\William\LibreriaWilliam\obj\Debug\net6.0\LibreriaWilliam.csproj.AssemblyReference.cache
+C:\personal\TestsWithDotNet6\William\LibreriaWilliam\obj\Debug\net6.0\LibreriaWilliam.GeneratedMSBuildEditorConfig.editorconfig
+C:\personal\TestsWithDotNet6\William\LibreriaWilliam\obj\Debug\net6.0\LibreriaWilliam.AssemblyInfoInputs.cache
+C:\personal\TestsWithDotNet6\William\LibreriaWilliam\obj\Debug\net6.0\LibreriaWilliam.AssemblyInfo.cs
+C:\personal\TestsWithDotNet6\William\LibreriaWilliam\obj\Debug\net6.0\LibreriaWilliam.csproj.CoreCompileInputs.cache
+C:\personal\TestsWithDotNet6\William\LibreriaWilliam\obj\Debug\net6.0\LibreriaWilliam.dll
+C:\personal\TestsWithDotNet6\William\LibreriaWilliam\obj\Debug\net6.0\ref\LibreriaWilliam.dll
+C:\personal\TestsWithDotNet6\William\LibreriaWilliam\obj\Debug\net6.0\LibreriaWilliam.pdb
